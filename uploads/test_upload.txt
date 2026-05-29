@@ -1,0 +1,3 @@
+# Test Document
+This is a test document about user registration process.
+Users must provide their name and email to register.

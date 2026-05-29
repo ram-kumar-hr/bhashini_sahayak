@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(docker --version)",
+      "Bash(chmod +x /home/ramkumar/Bhashini/bhashadaan-frontend-application/BhashiniSahayak/start.sh)"
+    ]
+  }
+}
